@@ -1,8 +1,8 @@
-# React + Vite
+🚀🚀My STREAM-VERSE Application🚀🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hey Guyz 😀, me Souvik a passionate Front-end Developer has created an application called STREAM-VERSE 🚀 using React-js and tailwind-css.
+I have used multiple Youtube video api to make this application very interactive 😀 .
 
-Currently, two official plugins are available:
+/*************//*********/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+While doing this project , I learned about React-hooks , react-router-dom , React-Redux , Redux-toolkit ,tailwind-css.
